@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there!
 
-Welcome to my GitHub profile!
+Thank you for stopping by, and welcome to my GitHub profile!
 
 <a href="https://instagram.com/juan_mart_m"><img height="30" src="https://github.com/jcmartinmu/jcmartinmu/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+🔭 I’m currently working on two research projects:
+  - Machine Learning methods applied to urban mobility.
+  - Spatio temporal modeling of Drinking Water violations.
+  
+Howver, I’m currently learning about everything! 🌱
 
-- 🔭 I’m currently working on:
-  * Machine Learning methods applied to urban mobility.
-  * Spatio temporal modeling of Drinking Water violations.
-- 🌱 I’m currently learning about everything!
-- 📫 How to reach me: Please email me to juan.c.martinez@vanderbilt.edu
-- 😄 Pronouns: He/His
+If you have comments or if there is something I can do to help you please email me to juan.c.martinez@vanderbilt.edu  📫
+ - 😄 Pronouns: He/His
 
+Kind regards,
 
+Juan
