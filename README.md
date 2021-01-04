@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://instagram.com/juan_mart_m"><img height="30" src="https://github.com/jcmartinmu/jcmartinmu/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/juan_mart_m"><img height="30" src="https://github.com/jcmartinmu/jcmartinmu/blob/main/icon/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Applied Computer Science projects.
 - 📫 How to reach me: Please email me to juan.c.martinez@vanderbilt.edu
 - 😄 Pronouns: He/His
+
 -->
