@@ -6,7 +6,7 @@ I’m currently working on two research projects:
   - Machine Learning methods applied to urban mobility.
   - Spatio temporal modeling of Drinking Water violations.
   
-Howver, I’m currently learning about everything! 🌱
+However, I am learning about everything! 🌱
 
 If you have comments or if there is something I can do to help you please email me to juan.c.martinez@vanderbilt.edu  📫
  - 😄 Pronouns: He/His
