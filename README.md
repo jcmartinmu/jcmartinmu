@@ -6,7 +6,9 @@ I’m currently working on two research projects:
   - Machine Learning methods applied to urban mobility.
   - Spatio temporal modeling of Drinking Water violations.
   
-However, I am learning about everything! 🌱
+However, I like to learn about everything! 🌱
+
+Also, I am an advocate of human and animal rights. I strongly believe that health care should be a universal right and not a privilege. I hope AI can help to make this dream a reality.
 
 If you have comments or if there is something I can do to help you please email me to juan.c.martinez@vanderbilt.edu  📫
  - 😄 Pronouns: He/His
