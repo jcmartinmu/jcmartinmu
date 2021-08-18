@@ -10,7 +10,7 @@ However, I like to learn about everything! 🌱
 
 Also, I am an advocate of human and animal rights.
 
-<img height="30" src="https://github.com/jcmartinmu/jcmartinmu/blob/main/icon/Nalita"></a>&nbsp;&nbsp;
+<img height="100" width = 80 src="https://github.com/jcmartinmu/jcmartinmu/blob/main/icon/Nalita.jpg"></a>&nbsp;&nbsp;
 
 I strongly believe that health care should be a universal right and not a privilege. I hope AI can help to make this dream a reality.
 
