@@ -4,7 +4,7 @@ Thank you for stopping by, and welcome to my GitHub profile!
 
 I’m currently working on two research projects:
   - Machine Learning methods applied to urban mobility.
-  - Spatio temporal modeling of Drinking Water violations.
+  - Spatio-temporal modeling of Drinking Water violations.
   
 However, I like to learn about everything! 🌱
 
