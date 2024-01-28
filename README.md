@@ -13,7 +13,7 @@ Also, I am an advocate of human and animal rights.
 
 I strongly believe that health care should be a universal right and not a privilege. I hope AI can help to make this dream a reality.
 
-If you have comments or if there is something I can do to help you please email me to juan.c.martinez@vanderbilt.edu  📫
+If you have comments or if there is something I can do to help you please email me at jcmartinez.igeologo@gmail.com  📫
  - 😄 Pronouns: He/His
  
 ### Social Networks
