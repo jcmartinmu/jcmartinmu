@@ -2,10 +2,9 @@
 
 Thank you for stopping by, and welcome to my GitHub profile!
 
-I’m currently working on two research projects:
-  - Machine Learning methods applied to urban mobility.
+I have a great interest in Spatio-temporal modeling and data visualization, and I have some experience in the following areas:
+  - Machine Learning methods applied to urban mobility and raster/image classification.
   - Spatio-temporal modeling of Drinking Water violations.
-  
 However, I like to learn about everything! 🌱
 
 Also, I am an advocate of human and animal rights.
